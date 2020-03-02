@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Md3_MVC_Student:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Md3_MVC_Student_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Md3_MVC_Student/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Md3_MVC_Student" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
